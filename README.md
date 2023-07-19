@@ -1,5 +1,4 @@
 # TicTacToe
-This is practicing git commands
 
 
 Tic Tac Toe is a classic paper-and-pencil game played between two players on a 3x3 grid. The objective of the game is to form a line of three matching symbols (traditionally 'X' and 'O') horizontally, vertically, or diagonally.
